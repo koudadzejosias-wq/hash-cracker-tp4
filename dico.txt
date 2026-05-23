@@ -1,0 +1,7 @@
+mkdir hash-cracker-tp4
+cd hash-cracker-tp4
+echo "soleil" > dico.txt
+echo "azerty" >> dico.txt
+echo "admin123" >> dico.txt
+echo "hacker2026" >> dico.txt
+echo "motdepasse" >> dico.txt
